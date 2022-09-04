@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-category-template-js",
-    "path": "/posts/회고",
-    "result": {"pageContext":{"currentCategory":"회고","categories":["All","회고","비즈니스도메인","독서"],"edges":[{"node":{"id":"f7acf0a6-ff39-57d4-b622-8dd4538795a0","excerpt":"잘하는 것보다 중요한 것 아무리 좋은 작품을 만들었다고 하더라도 정해진 기간에 마무리하지 못한 것이라면 아무 의미가 없습니다. 우리에게 골을 넣을 수 있는 시간은 90분입니다. 90분의 경기가 끝나고 난 후에 넣은 골은 골이 아닙니다. 마감을 넘긴 일은 아무리 잘해도 소용이 없습니다. ‘해야 할 일’을 해야 할 때 ‘하고 싶은 일’을 하는 사람은 무능한 사람입니다. By. alone&around 지난 4월의 나는 ‘해야 할 일’을 해야 할 때에 ‘하고 싶은 일’을 하지는 않았나. 하고 싶은 공부와 필요한 공부 사이에 우선순위 조정에 실패했다. 나는 아직 기본적인 수준이 올라오지 않았다. 취사선택하며 하고 싶은 공부만 하기 보다, 필요하고 중요한 공부부터 다져 나가야겠다. 걷는게 지칠 때에는 고개를 들어 먼 곳을 바라본다. 어떤 공부를 하든지 중간에 슬럼프가 찾아 온다면, 지금 공부하는 이유가 명확하지 않다는 신호로 받아 들여야 한다. (명확한) 목표, 목적 → 자기 확신→ 자신감 …","fields":{"slug":"/retrospective_april/"},"frontmatter":{"categories":"회고","title":"월간 회고 - 2022년 4월","date":"May 03, 2022"}},"next":{"fields":{"slug":"/css_kakaobank/"}},"previous":null}]}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
